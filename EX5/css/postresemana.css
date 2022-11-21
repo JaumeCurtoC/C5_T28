@@ -1,0 +1,20 @@
+body{
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: khaki;
+    font-size: x-large;
+}
+h2{
+    font-size: xx-large;
+}
+em{
+    color: cadetblue;
+}
+strong{
+    color: cadetblue;
+}
+ul{
+    list-style-type: none;
+}
